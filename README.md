@@ -79,6 +79,26 @@ Repo: https://github.com/assaadshreim/MLMS
 
 ---
 
+### Assaad Shreim Portfolio
+**Personal Portfolio Website**
+
+- Next.js, Tailwind CSS, Framer Motion, GSAP
+- Responsive UI with custom animations and contact form
+
+Repo: https://github.com/assaadshreim/assaad_shreim_portfolio
+
+---
+
+### MLMS v2
+**Multimedia Library Manager System (v2)**
+
+- Java, design patterns, and enhanced UX
+- Expanded features and refined architecture
+
+Repo: https://github.com/assaadshreim/MLMS_v2
+
+---
+
 ## Experience
 
 **Web Developer Intern** — MTC Touch (Jun 2024 – Aug 2024)
